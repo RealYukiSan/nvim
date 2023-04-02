@@ -1,4 +1,7 @@
 # AstroNvim v3 .dotfiles configuration
+## How to use this config?
+- Install nvim and astronvim, see the [official documentation](https://astronvim.com/)
+- run this command: `git clone https://github.com/Reyuki-san/nvim ~/.config/nvim/lua/user`
 
 # References
 
